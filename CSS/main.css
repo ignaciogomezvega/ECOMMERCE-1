@@ -1,0 +1,24 @@
+#filter__input{
+    display: block; 
+    margin: auto; 
+    width: 40%
+}
+
+#carrito{
+    display: none;
+    position: fixed;
+    top: 10%;
+    right: 10%;
+    width: 30%;
+    height: auto;
+    background-color: whitesmoke;
+    z-index: 1001;
+}
+#agregar__producto{
+    display: none;
+
+}
+
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjrOqHbyetIbJz0G6dMwq4zXcpmCrzlinYvg&usqp=CAU);
+}
