@@ -15,7 +15,7 @@ export const productos = [
   },
   {
     id: 3,
-    nombre: "Memoria 8gb",
+    nombre: "PLACA M.2",
     precio: 7000,
     imagen:"https://www.fullh4rd.com.ar/img/productos/4/memoria-8gb-ddr4-2666-kingston-value-0.jpg",
     categoria:"memoria"
